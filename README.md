@@ -1,2 +1,2 @@
 # cmdship2
-Game implementation
+Game implementation for CMDShip
